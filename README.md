@@ -16,8 +16,4 @@ How can you run this project?
 - open the project onto your java ide (I used IntelliJ for this!)
 - compile and run the Main.java file
 
-Helpful Resources:
-- YouTube - RyiSnow (How to Code Chess in Java), was a fantastic beginner resource for learning how to develop
-  a chess GUI especially for people like me, who are new to Java!
-
 
