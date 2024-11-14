@@ -6,8 +6,8 @@ wanted to build a GUI to allow the user to play a simple game of chess!
 Prior to this, I had never used Java, and since I wanted to learn more about how the 
 language itself, I decided to take on the task of developing something I enjoy while 
 learning a new technology. Despite this, this project still has much more potential as 
-I would like to add a database to keep track of all game a user has played, as well as 
-possible include an AI to play against in the near future. Also, if you would like to 
+I would like to add a database to keep track of all gamea a user has played, as well as 
+possibly include an AI to play against in the near future. Also, if you would like to 
 play chess, feel free to add me on chess.com: swayyk!
 
 How can you run this project?
